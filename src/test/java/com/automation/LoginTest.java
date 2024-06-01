@@ -1,6 +1,6 @@
 package com.automation;
 
-public class loginTest {
+public class LoginTest {
     public static void main(String[] args) {
 
         
